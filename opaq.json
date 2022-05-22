@@ -939,7 +939,7 @@
                         "Konfession": "K",
                         "Link": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSZR-DS3C-R?i=3&cat=497287",
                         "Plattform": "Fam",
-                        "Sonstige": "Sterbef?lle \nauch bei\nTrauungen ",
+                        "Sonstige": "Sterbefälle auch bei Trauungen ",
                         "Taufen": " ",
                         "Trauungen": "1775-1875, 1685-1775  ",
                         "Verstorbene": "1855-1875 "
@@ -957,7 +957,7 @@
                         "Verstorbene": "1821-1854, 1775-1821, 1763-1775 "
                     },
                     {
-                        "Anmerkung": "Auszug, \nnur 23 Seiten\nU. a. Taufen \nab 1817 - / \nTote ab ?",
+                        "Anmerkung": "Auszug, nur 23 Seiten u. a. Taufen \r\nab 1817 - / Tote ab ?",
                         "Film": "163521",
                         "Gemeinde": "",
                         "Konfession": "K",
@@ -1097,7 +1097,7 @@
                         "Verstorbene": "1782-1897 "
                     },
                     {
-                        "Anmerkung": "(Einzelne \nTeile?) erst ab 1733",
+                        "Anmerkung": "(Einzelne Teile?) erst ab 1733",
                         "Film": "161896",
                         "Gemeinde": "",
                         "Konfession": "K",
@@ -1461,7 +1461,7 @@
                         "Verstorbene": " "
                     },
                     {
-                        "Anmerkung": "Am Anfang: Namensindex \nf?r 1834-1874                          ",
+                        "Anmerkung": "Am Anfang: Namensindex für 1834-1874                          ",
                         "Film": "362906",
                         "Gemeinde": "St. Barbara ",
                         "Konfession": "E",
@@ -1797,7 +1797,7 @@
                         "Verstorbene": "1805-1924 NI"
                     },
                     {
-                        "Anmerkung": "Gestorbene nach Wochen\nmit Adresse \nund Geb?hr",
+                        "Anmerkung": "Gestorbene nach Wochen mit Adresse \r\nund Gebühr",
                         "Film": "362999",
                         "Gemeinde": "Heilig Leichnam ",
                         "Konfession": "E",
@@ -2109,7 +2109,7 @@
                         "Verstorbene": "1850-1865 "
                     },
                     {
-                        "Anmerkung": "Am Anfang und sp?ter Namensindex",
+                        "Anmerkung": "Am Anfang und später Namensindex",
                         "Film": "362969",
                         "Gemeinde": "St. Marien",
                         "Konfession": "E",
@@ -2361,7 +2361,7 @@
                         "Verstorbene": "1667-1838 "
                     },
                     {
-                        "Anmerkung": "Am Anfang Schrift-\nwechsel. \nAnschl. Register",
+                        "Anmerkung": "Am Anfang Schriftwechsel, anschließend Register.",
                         "Film": "548788",
                         "Gemeinde": "Mennonitengemeinde",
                         "Konfession": "M",
@@ -2683,7 +2683,7 @@
                         "Verstorbene": " 1908-1931 "
                     },
                     {
-                        "Anmerkung": "Auch f?r Weich-\nselm?nde",
+                        "Anmerkung": "auch für Weichselmünde",
                         "Film": "1334787",
                         "Gemeinde": "",
                         "Konfession": "E",
