@@ -277,7 +277,7 @@
                 "Buecher": [
                     {
                         "Anmerkung": "",
-                        "Film": "1864632\nItem10-11",
+                        "Film": "1864632 Item 10-11",
                         "Gemeinde": "",
                         "Konfession": "K",
                         "Link": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSXS-6992-F?i=1053&cat=299428",
@@ -325,7 +325,7 @@
                     },
                     {
                         "Anmerkung": "",
-                        "Film": "1864633\nItems 1-2",
+                        "Film": "1864633 Items 1-2",
                         "Gemeinde": "",
                         "Konfession": "K",
                         "Link": "https://www.familysearch.org/search/film/007995064?i=5&cat=299428",
@@ -350,10 +350,10 @@
                         "Sonstige": " ",
                         "Taufen": "1789-1896 NI",
                         "Trauungen": "1847-1900 NI",
-                        "Verstorbene": " 1787-1897 NI"
+                        "Verstorbene": "1787-1897 NI"
                     },
                     {
-                        "Anmerkung": "Am Anfang Namensindex",
+                        "Anmerkung": "am Anfang Namensindex",
                         "Film": "208226",
                         "Gemeinde": "",
                         "Konfession": "E",
@@ -386,7 +386,7 @@
                         "Sonstige": " ",
                         "Taufen": " ",
                         "Trauungen": " ",
-                        "Verstorbene": " 1787-1897 "
+                        "Verstorbene": "1787-1897 "
                     }
                 ],
                 "Name": "Neu Barkoschin (Nowy Barkoczyn)"
@@ -454,7 +454,7 @@
                         "Verstorbene": " "
                     },
                     {
-                        "Anmerkung": "Am Ende \nNamensindex",
+                        "Anmerkung": "am Ende Namensindex",
                         "Film": "208222",
                         "Gemeinde": "",
                         "Konfession": "E",
@@ -478,7 +478,7 @@
                         "Verstorbene": "1775-1855 "
                     },
                     {
-                        "Anmerkung": "Am Ende Namensindex",
+                        "Anmerkung": "am Ende Namensindex",
                         "Film": "208224",
                         "Gemeinde": "",
                         "Konfession": "E",
@@ -495,7 +495,7 @@
             "Pogutken (Pogódki)": {
                 "Buecher": [
                     {
-                        "Anmerkung": "Am Anfang Namensindex",
+                        "Anmerkung": "am Anfang Namensindex",
                         "Film": "208241",
                         "Gemeinde": "",
                         "Konfession": "E",
@@ -520,7 +520,7 @@
                     },
                     {
                         "Anmerkung": "",
-                        "Film": "1864633\nItem 3",
+                        "Film": "1864633 Item 3",
                         "Gemeinde": "",
                         "Konfession": "K",
                         "Link": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6Z-KZKR?i=173&cat=302711",
@@ -544,7 +544,7 @@
                     },
                     {
                         "Anmerkung": "",
-                        "Film": "1186084\nItems 1-2",
+                        "Film": "1186084 Items 1-2",
                         "Gemeinde": "",
                         "Konfession": "K",
                         "Link": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVW-791H-K?i=2&cat=302711",
