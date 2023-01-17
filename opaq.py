@@ -11,7 +11,7 @@ import time
 import json
 from bs4 import BeautifulSoup
 
-baseurl = 'https://vffow.org/content/datenbanken/online-personenquellen/'
+baseurl = 'https://www.vffow.org/content/datenbanken/online-personenquellen/kirchenbuchquellen/quellen-nach-landkreisen-sortiert/'
 
 Landkreise = []
 
