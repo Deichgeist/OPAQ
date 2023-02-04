@@ -29,7 +29,7 @@ for s_option in s_select('option') :
     kreisname = s_option.string
     if not kreisname == 'Land-/Stadtkreis' :
         anz_kreise = anz_kreise +1;
-        print(anz_kreise, ': ',  kreisname)
+        #print(anz_kreise, ': ',  kreisname)
         # Go and get Website for this Kreis:
         pdata = {
             'kreis' : kreisname,
@@ -66,7 +66,7 @@ for s_option in s_select('option') :
                         kirche = { 'Name': kirchspiel, 'Buecher': list() }
                         Landkreis['Kirchspiele'][kirchspiel] = kirche
                         anz_kirchen = anz_kirchen + 1
-                        print('        Kirchspiel:', kirchspiel )
+                        #print('        Kirchspiel:', kirchspiel )
                     
                     gemeinde        = tds[0].get_text()
                     konfession      = tds[1].get_text()
