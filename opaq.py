@@ -11,7 +11,7 @@ import time
 import json
 from bs4 import BeautifulSoup
 
-baseurl = 'https://www.vffow.org/content/datenbanken/online-personenquellen/kirchenbuchquellen/quellen-nach-landkreisen-sortiert/'
+baseurl = 'https://vffow.org/datenbanken/online-personenquellen/kirchenbuchquellen/quellen-nach-landkreisen-sortiert/'
 
 Landkreise = []
 
@@ -93,6 +93,7 @@ for s_option in s_select('option') :
                     }
                     kirche['Buecher'].append(buch)
                     anz_buecher = anz_buecher +1
+            print(anz_kreise, ':', Landkreis['Kreisname'], 'hat', len(Landkreis['Kirchspiele']), 'Kirchspiele' )
             Landkreise.append(Landkreis)
        
     
